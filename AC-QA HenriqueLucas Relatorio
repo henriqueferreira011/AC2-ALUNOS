@@ -1,0 +1,28 @@
+Relatório de Teste
+Informações Gerais:
+    • Nome do Projeto: Teste de Avaliação Continuada - QA
+    • Data do Teste: 30/10/2023
+    • Responsável pelo Teste: Henrique Ferreira, Lucas Ferreira
+    • Ambiente de Teste: Produção
+Resumo:
+Realização de teste com finalidade de conclusão de atividade continuada
+Objetivos do Teste:
+    • Gravar via Selenium IDE as funções a serem executadas
+    • Executar gravação e procurar por possíveis erros
+    • Confeccionar relatório com os resultados de estudo obtidos
+Escopo do Teste:
+Escrita em formulário online
+Seleção de alternativas corretas
+Resultados dos Testes:
+    • Funcionalidade A:
+        ◦ Selenium IDE conseguiu concluir a escrita com sucesso sem apresentar erros
+    • Funcionalidade B:
+        ◦ Selenium IDE conseguiu selecionar as alternativas corretas
+        ◦ Foi verificado demora severa na seleção de alguns elementos presentes na página
+Conclusão:
+Foi possível concluir que os resultados obtidos foram considerados satisfatórios pelos examinadores e apenas necessita de pequenos ajustes em sua construção e desempenho
+Assinaturas:
+Responsável pelo Teste: Henrique Ferreira da Silva___ Data: 30 de Outubro de 2023
+Supervisor do Projeto: Lucas Alexandre Ferreira____ Data: 30 de Outubro de 2023
+Observações Finais:
+Site utilizado para realizar o formulário apresenta problemas relacionados a instabilidade e elementos visuais com erros de formatação
